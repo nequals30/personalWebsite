@@ -1,7 +1,6 @@
 title: Alik's Blog # Shown in header on pages with full_logo: true
 short_logo: Alik's Blog # Shown in header on all pages by default unless full_logo: true is set
-description: > # The description for your site
-ulmasov.com is Alik's hobby blog.
+description: "ulmasov.com is Alik's hobby blog" # The description for your site
 url: "https://ulmasov.com/personalWebsite/" # Site base URL
 
 author:
