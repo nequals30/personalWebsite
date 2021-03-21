@@ -2,16 +2,16 @@
 layout: page
 full_logo: true
 title: 
-subtitle: 
-description: A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
+subtitle: About
+description: My name is Alik Ulmasov. I do some hobby programming projects and show them off here.
 sitemap:
   priority: 1.0
 ---
-<p id="describe-text">A minimal yet feature-rich Jekyll theme made for personal websites and blogs.</p>
-<br>
-This is the index page, describe yourself in few sentences here. Perhaps talk about what you do for living and what you do in your free time. Maybe even leave an [email@address.com](#) or a link to your [resume](#).
+My name is Alik Ulmasov. I do some hobby programming projects and show them off here.
 
-Pudhina Fresh is free and open-source. Checkout [Pudhina Fresh](https://github.com/ritijjain/pudhina-fresh).
+By day, I work in the financial industry as a portfolio manager and quantitative researcher, mostly related to fixed income and derivatives (more details on my [LinkedIn](https://www.linkedin.com/in/alikulmasov)). 
+
+So far, my hobby programming projects have been related to data analysis stuff (using R and Python), but I am also interested in game design and Linux and plan to blog about that more.
 
 <br>
 <br>
