@@ -3,7 +3,7 @@ layout: post
 title: "Yahoo Fantasy Baseball API with R"
 date: 2017-06-03
 tags: [R]
-splash_img_source: /assets/images/blogPosts/yahooFantasy_oauth.png
+splash_img_source: /assets/images/blogPosts/yahooFantasy_rpDf.png
 splash_img_caption: Not the final picture 
 permalink: "blog/yahoo-fantasy-baseball-api-with-r"
 ---
