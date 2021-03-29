@@ -5,7 +5,7 @@
     <p>Markdown itinerary into HTML calendar</p> 
 
     <a href="https://github.com/nequals30/MDcalendar" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
-    <a href="https://www.ulmasov.com/personalWebsite/blog/markdown-calendar" target="_self" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
+    <a href="https://www.ulmasov.com/blog/markdown-calendar" target="_self" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
 
   tags: [python] # A list of tags
 
