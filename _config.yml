@@ -11,10 +11,15 @@ author:
   homepage: https://ulmasov.com 
   twitter: nequals30 # Twitter username, used for Twitter Card Analytics 
 
-disqus_name: # Setting this will turn on Disqus comments
 g_track_id: # Google Analytics tracking ID (e.g. UA-000000-2), setting this will turn on Google Analytics
 
 markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
 
 defaults: # Recommended defaults, you may set your own
   -
