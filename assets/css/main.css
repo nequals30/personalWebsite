@@ -13,8 +13,8 @@
   
 
   p, ul, ol, dl {
-    font-size: 100%;
-    line-height: 32px; }
+    font-size: 100%;}
+/*    line-height: 16px; } */
   
   h1, h2, h3, h4, h5, h6 {
     color: #212529;
@@ -24,6 +24,13 @@
   img {
     display: block;
     max-width: 100%; }
+
+  code {
+    font-size: 90%;
+    border-radius: 3px;
+    padding: 2px 4px;
+    background: #f0f0f0;
+    color: #444 }
 
   blockquote {
     background: #f9f9f9;
