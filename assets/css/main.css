@@ -476,3 +476,7 @@
   /* Custom */
   .go-home {
     text-align: center; }
+
+.alert {margin: 4px 5%; background-color:#f8f9fa; border:1px solid #f28500;}
+
+.todo {background-color:#f6d32d;}
