@@ -1,4 +1,47 @@
 
+$yellow:    #fabd2f;
+$orange:    #fe8019;
+$red:       #fb4934;
+$purple:    #d3869b;
+$blue:      #83a598;
+$aqua:      #8ec07c;
+$green:     #b8bb26;
+$grey:      #928374;
+
+$text-color:       #d5c4a1;
+$background-color: #282828;
+$code-background:  $background-color;
+$code-def-color:   $text-color;
+$pre-border-color: $background-color;
+
+pre,
+code {
+  font-size: 15px;
+  background-color: $code-background;
+  color: $code-def-color;
+}
+
+code {
+  padding: 1px 5px;
+}
+
+pre {
+  padding: 8px 12px;
+  overflow-x: auto;
+  
+  border: 1px solid $pre-border-color;
+
+  -webkit-box-shadow: inset 0px 0px 3px 0px rgba(0,0,0,0.5);
+  -moz-box-shadow: inset 0px 0px 3px 0px rgba(0,0,0,0.5);
+  box-shadow: inset 0px 0px 3px 0px rgba(0,0,0,0.5);
+
+  > code {
+    border: 0;
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
+
 
 code {
   // Your custom styles for inline code here
