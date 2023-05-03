@@ -1,4 +1,5 @@
 
+// Color Variables
 $yellow:    #fabd2f;
 $orange:    #fe8019;
 $red:       #fb4934;
@@ -8,12 +9,14 @@ $aqua:      #8ec07c;
 $green:     #b8bb26;
 $grey:      #928374;
 
+// General Style Variables
 $text-color:       #d5c4a1;
 $background-color: #282828;
 $code-background:  $background-color;
 $code-def-color:   $text-color;
 $pre-border-color: $background-color;
 
+// General styles for pre and code elements
 pre,
 code {
   font-size: 15px;
@@ -21,16 +24,19 @@ code {
   color: $code-def-color;
 }
 
+// Inline code styles
 code {
   padding: 1px 5px;
 }
 
+// Block code (pre) styles)
 pre {
   padding: 8px 12px;
   overflow-x: auto;
   
   border: 1px solid $pre-border-color;
 
+  // Box shadow
   -webkit-box-shadow: inset 0px 0px 3px 0px rgba(0,0,0,0.5);
   -moz-box-shadow: inset 0px 0px 3px 0px rgba(0,0,0,0.5);
   box-shadow: inset 0px 0px 3px 0px rgba(0,0,0,0.5);
@@ -42,18 +48,15 @@ pre {
   }
 }
 
-
+// Custom inline code styles
 code {
-  // Your custom styles for inline code here
-  background-color: #f5f5f5; // Example background color
+  color: #282828;
+  background-color: #f5f5f5;
   padding: 2px 4px;
   border-radius: 4px;
   font-size: 0.9em;
+  border: 1px solid rgb(204, 204, 204);
 }
-
- .highlighter-rouge {
-  color: $blue;
- }
  
 .highlight > pre > code{
   
