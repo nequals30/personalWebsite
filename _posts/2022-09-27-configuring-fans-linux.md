@@ -12,7 +12,7 @@ I recently tried to make my fans quieter in an old computer which I've repurpose
 
 Being relatively new to this, I found the expirience of configuring fan speeds in Linux surprisingly daunting and am writing about it in the spirit of [blogging about my problems in case it helps someone else](https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/).
 
-<p class="alert">I am not an expert on fan hardware, nor am I an expert on Linux. Configuring fans incorrectly may cause damage to hardware. Proceed at your own risk.</p>
+> I am not an expert on fan hardware, nor am I an expert on Linux. Configuring fans incorrectly may cause damage to hardware. Proceed at your own risk.
 
 ### Step 1: Install the required software
 We will need 3 programs: `lm-sensors` to view sensors, `fancontrol` to control fan speeds, and `s-tui` to stress test the system. So go ahead and install them:
