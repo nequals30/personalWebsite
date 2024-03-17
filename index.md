@@ -1,13 +1,12 @@
 ---
 layout: page
 full_logo: true
-title: 
-subtitle: About
+title: About
 description: My name is Alik Ulmasov. I do some hobby programming projects and show them off here.
 sitemap:
   priority: 1.0
 ---
-
+<br/>
 <img width="30%" style="max-width:300px;padding-right:5%;padding-bottom:20px;" align="left" src="assets/images/bio-photo.jpg"/>
 My name is Alik Ulmasov. I do some hobby programming projects and show them off here.
 

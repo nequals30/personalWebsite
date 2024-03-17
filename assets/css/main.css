@@ -6,7 +6,6 @@
     font-size: 100%;
     color: #012;
     background-color: #FFF; } */
-
   a {
     color: #57A;
     text-decoration: none; }
@@ -18,7 +17,7 @@
   
   h1, h2, h3, h4, h5, h6 {
     color: #212529;
-    padding-top: 20px;
+    padding-top: 10px;
     font-weight: 500; }
 
   img {
@@ -42,8 +41,9 @@
     quotes: "\201C""\201D""\2018""\2019"; }
 
   .wrapper {
-    max-width: 80%;
-    margin: 60px auto; }
+	width:80%;
+    max-width: 800px;
+    margin: 25px auto; }
  
   table {
     border-collapse: collapse;
@@ -105,7 +105,8 @@
 
 /* =Titles *//*************************************************************/
   .page-title {
-    margin: 30px auto;
+    /*margin: 30px auto;*/
+	margin-bottom: 15px auto;
     text-align: center; }
 
   .page-title__text {
